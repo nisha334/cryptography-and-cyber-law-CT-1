@@ -2,8 +2,9 @@
 # Number Theory, Cryptography & Prime Number
 
 **Name:** Fatema Islam Nisha 
-**Student ID:** IT22033
 
+**Student ID:** IT22033
+Google Colab: https://colab.research.google.com/drive/1rWa44muVlEr2AltIdP4k3Nizbr4A4xps?usp=sharing
 ---
 
 ## Table of Contents
@@ -39,8 +40,6 @@ Number Theory is a branch of mathematics that studies integers and their mathema
 It focuses on divisibility, prime numbers, factors, multiples, remainders, modular arithmetic, and integer equations.
 
 Number Theory plays an important role in computer science, algorithm design, and modern cryptography.
-
-## Main Types of Numbers
 
 
 **Key Learning:** Understanding the properties of integers is the foundation of Number Theory and Cryptography.
