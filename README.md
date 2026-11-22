@@ -2,7 +2,6 @@
 # Number Theory, Cryptography & Prime Number
 
 **Name:** Fatema Islam Nisha 
-
 **Student ID:** IT22033
 Google Colab: https://colab.research.google.com/drive/1rWa44muVlEr2AltIdP4k3Nizbr4A4xps?usp=sharing
 ---
